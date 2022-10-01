@@ -3,6 +3,8 @@
 docker-compose up -d
 ```
 
+起動後、http://localhost:8000/を確認してください。
+
 # WordPressのおすすめプラグイン
 ## セキュリティ
 |推奨|プラグイン名|機能|
